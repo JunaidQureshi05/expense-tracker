@@ -155,4 +155,7 @@ button:focus {
   .delete-btn {
     opacity: 1;
   }
+  .container {
+    width: 300px;
+  }
 }
